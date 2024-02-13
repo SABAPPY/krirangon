@@ -1,0 +1,5 @@
+# EXTM3U
+# EXTINF:-1, Channel 1
+http://10.20.30.30:8787/LiveEvent-3/video.m3u8
+# EXTINF:-1, Channel 2
+http://10.20.30.30:8787/LiveEvent-4/video.m3u8
